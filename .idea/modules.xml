@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/goorm-deepdive.iml" filepath="$PROJECT_DIR$/goorm-deepdive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-mission.iml" filepath="$PROJECT_DIR$/java-mission.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-mission.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-mission.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-mission.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-mission.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
+    </modules>
+  </component>
+</project>

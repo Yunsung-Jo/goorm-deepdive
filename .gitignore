@@ -1,0 +1,3 @@
+# Project exclude paths
+/java-mission/.gradle/
+/web/spring/.gradle/
