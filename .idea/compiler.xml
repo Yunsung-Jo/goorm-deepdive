@@ -5,6 +5,9 @@
       <module name="java-mission" target="17" />
       <module name="java-mission.main" target="17" />
       <module name="java-mission.test" target="17" />
+      <module name="spring" target="17" />
+      <module name="spring.main" target="17" />
+      <module name="spring.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

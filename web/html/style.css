@@ -1,0 +1,64 @@
+h2 {
+    color: white;
+}
+
+.flex {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    margin: 0;
+}
+
+header,
+footer {
+    width: 100%;
+    height: 10rem;
+}
+
+nav,
+aside {
+    flex: 1;
+    height: 30rem;
+}
+
+section {
+    flex: 3;
+    display: flex;
+    flex-direction: column;
+    height: 30rem;
+    background-color: green;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+header {
+    background-color: blue;
+}
+
+footer {
+    background-color: purple;
+}
+
+nav {
+    background-color: red;
+}
+
+aside {
+    background-color: gray;
+}
+
+article:nth-child(2) {
+    background-color: beige;
+}
+
+article:nth-child(3) {
+    background-color: pink;
+}
+
+article:nth-child(4) {
+    background-color: aqua;
+}
