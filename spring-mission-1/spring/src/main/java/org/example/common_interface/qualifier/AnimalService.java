@@ -13,6 +13,6 @@ public class AnimalService {
     private Animal animal;
 
     public void cry() {
-        animal.cry();
+        System.out.println(animal.cry());
     }
 }

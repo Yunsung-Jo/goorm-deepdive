@@ -6,7 +6,7 @@ import org.example.common_interface.common.employee.ZookeeperDTO;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-@Configuration
+@Configuration("javaconfig")
 public class ContextConfiguration {
 
     @Bean
