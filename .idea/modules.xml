@@ -3,12 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/goorm-deepdive.iml" filepath="$PROJECT_DIR$/goorm-deepdive.iml" />
-      <module fileurl="file://$PROJECT_DIR$/java-mission.iml" filepath="$PROJECT_DIR$/java-mission.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-mission.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java-mission.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java-mission.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java-mission.test.iml" />
-      <module fileurl="file://$PROJECT_DIR$/spring.iml" filepath="$PROJECT_DIR$/spring.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring.test.iml" />
     </modules>
   </component>
 </project>
